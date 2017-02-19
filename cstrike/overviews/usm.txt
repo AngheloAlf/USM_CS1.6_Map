@@ -1,0 +1,14 @@
+//overview description file for asdasdasd.bsp
+
+global 
+{
+	ZOOM	1.05
+	ORIGIN	0 	0	442
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/asdasdasd.bmp"
+	HEIGHT	-1537
+}
