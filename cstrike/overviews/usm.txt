@@ -1,4 +1,4 @@
-//overview description file for asdasdasd.bsp
+//overview description file for usm.bsp
 
 global 
 {
@@ -9,6 +9,6 @@ global
 
 layer 
 {
-	IMAGE	"overviews/asdasdasd.bmp"
+	IMAGE	"overviews/usm.bmp"
 	HEIGHT	-1537
 }
